@@ -1,0 +1,31 @@
+# Core
+pandas
+numpy
+pyarrow==20.0.0          # Fixes all Arrow warnings + speeds up pandas 5–10×
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Maps
+folium==0.20
+streamlit-folium
+
+# Geospatial
+rasterio==1.4.3
+
+# Stats
+scipy
+statsmodels
+
+# Excel & tables
+openpyxl==3.1.5
+tabulate==0.9.0
+
+# Streamlit & extras
+streamlit>=1.31.0
+altair==6.0.0
+ipython==8.28.0
+scikit-learn
+
